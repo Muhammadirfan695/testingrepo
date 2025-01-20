@@ -5,6 +5,7 @@ const HomePage = () => {
     <React.Fragment>
       <section className="background-image p-8">
         <div className="flex  shadow bg-white p-14">
+          
           <div className="basis-1/2 ">
             <div class="w-1/2 h-screen hidden lg:block">
               <img src="https://img.freepik.com/fotos-premium/imagen-fondo_910766-187.jpg?w=826" alt="Placeholder Image" class="object-cover w-full h-full" />
